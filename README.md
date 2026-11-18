@@ -35,7 +35,8 @@ A two-dimensional survival game developed in **LabVIEW** and controlled by an **
 - `labview/JocAcabatEntregableAmbSubVis.vi` — submitted main VI using SubVIs.
 - `labview/JocAcabatSenseSubvis.vi` — alternative implementation.
 - `labview/` — 12 unmodified original VI files.
-- `docs/Informe_Projecte.pdf` — original project report (Catalan).
+- [Original technical report (Catalan)](docs/Informe_Projecte.pdf).
+- [English technical report (PDF)](docs/Jungle_Survival_English_Report.pdf).
 - `assets/` — front panel, block diagram and Arduino wiring photograph.
 
 ## Opening the project
